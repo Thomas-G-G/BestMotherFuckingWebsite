@@ -22,6 +22,10 @@ a:visited {
   color: #c0392b;
 }
 
+a:hover {
+  color: black;
+}
+
 .img_left {
   text-align: left;
 }
